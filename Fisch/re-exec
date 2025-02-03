@@ -1,3 +1,2 @@
-local url = game:HttpGet('https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader'))
-loadstring(url)()
-queue_on_teleport(url)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader'))()
+queue_on_teleport(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Lunor/refs/heads/main/Fisch/re-exec")) --// self re-execute
